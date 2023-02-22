@@ -7,7 +7,7 @@ Web Application Developer
 Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in Digital Transformation, Communication, Front-end Development, PHP Frameworks, and Adobe Photoshop. Strong engineering professional with a Bachelor's degree focused in Information Technology from the Institute of Southern Punjab Multan.
 
 * 🌍  I'm based in Multan Pakistan.
-* 🖥️  See my portfolio at [fahad.finelinerdevelopers.com](http://fahad.finelinerdevelopers.com/)
+* 🖥️  See my portfolio at [Fahad Mansoor](https://linktr.ee/fahadmansoor)
 * ✉️  You can contact me at [fahadmasnoor6474@gmail.com](mailto:fahadmasnoor6474@gmail.com)
 * 🧠  I'm learning Blockchain Development.
 * 🤝  I'm open to collaborating on Web Application Development.
