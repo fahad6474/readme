@@ -8,7 +8,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 * 🌍  I'm based in Multan Pakistan.
 * 🖥️  See my portfolio at [Fahad Mansoor](https://linktr.ee/fahadmansoor)
-* ✉️  You can contact me at [fahadmasnoor6474@gmail.com](mailto:fahadmasnoor6474@gmail.com)
+* ✉️  You can contact me at [mfahadmansoor@outlook.com](mailto:mfahadmansoor@outlook.com)
 * 🧠  I'm learning Blockchain Development.
 * 🤝  I'm open to collaborating on Web Application Development.
 * ⚡  I'm a Gaming Enthusiast who is always trying to do better and better.
